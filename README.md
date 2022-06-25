@@ -1,6 +1,3 @@
-# prime-factorization-calculator
-
-
 <div align="center">
   <h1>:clipboard: Java Prime Factorization Calculator :clipboard:</h1>
 </div>
